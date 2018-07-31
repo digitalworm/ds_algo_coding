@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/rahul.saini/Documents/books/cs_study_plan/practice_workspace/.metadata/.plugins/org.eclipse.jdt.core
+3177648776.index
+2452440451.index
+476915847.index
